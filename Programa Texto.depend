@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1730587259 source:c:\users\w10-pc\onedrive\escritorio\uni\programa texto\funciones.cpp
+	<iostream>
+	<string>
+
+1730587823 source:c:\users\w10-pc\onedrive\escritorio\uni\programa texto\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	"funciones.h"
+
+1730587259 c:\users\w10-pc\onedrive\escritorio\uni\programa texto\funciones.h
+	<string>
+
+1731879795 source:c:\users\w10-pc\onedrive\escritorio\uni\programacion\programa texto\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	"funciones.h"
+	"struct.h"
+
+1731793874 c:\users\w10-pc\onedrive\escritorio\uni\programacion\programa texto\funciones.h
+	<string>
+
+1731793874 source:c:\users\w10-pc\onedrive\escritorio\uni\programacion\programa texto\funciones.cpp
+	<iostream>
+	<string>
+
+1731876638 c:\users\w10-pc\onedrive\escritorio\uni\programacion\programa texto\struct.h
+	<string>
+
+1731955138 source:c:\users\gonzalo\desktop\programacion\c++\programa texto\programa texto\funciones.cpp
+	<iostream>
+	<string>
+
+1731956101 source:c:\users\gonzalo\desktop\programacion\c++\programa texto\programa texto\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	"funciones.h"
+	"struct.h"
+
+1731955138 c:\users\gonzalo\desktop\programacion\c++\programa texto\programa texto\funciones.h
+	<string>
+
+1731956101 c:\users\gonzalo\desktop\programacion\c++\programa texto\programa texto\struct.h
+	<string>
+
+1731965705 source:c:\users\w10-pc\onedrive\escritorio\uni\programacion\segundo parcial\programa texto\funciones.cpp
+	<iostream>
+	<string>
+
+1731974170 source:c:\users\w10-pc\onedrive\escritorio\uni\programacion\segundo parcial\programa texto\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	"funciones.h"
+	"struct.h"
+
+1731955138 c:\users\w10-pc\onedrive\escritorio\uni\programacion\segundo parcial\programa texto\funciones.h
+	<string>
+
+1731956101 c:\users\w10-pc\onedrive\escritorio\uni\programacion\segundo parcial\programa texto\struct.h
+	<string>
+
