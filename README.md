@@ -9,7 +9,7 @@
 
 **Docente:** Matías Sánchez Villar  
 **Alumnos:**  
-- Nañez Martín  
+- Ñañez Martín  
 - Cluchinsky Mateo  
 - Crespo Gonzalo  
 
